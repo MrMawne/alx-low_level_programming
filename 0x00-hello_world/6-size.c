@@ -1,11 +1,12 @@
 #include <stdio.h>
+#include <libc6-dev-i386.h>
 
 /**
- * main: Entry point
+ * main - entry point.
  *
  * Description: using sizeof function to print the size of various types.
  *
- * Return: Always 0 (Success)
+ * Return: Always 0 (Success).
 */
 
 int main(void)
