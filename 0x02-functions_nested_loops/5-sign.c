@@ -2,12 +2,12 @@
 
 /**
  * prints_sign - Determines if the input number
- * greater ,equal or less than zero
+ * greater ,iqual or less than zero.
  *
- * @n : the input number as an integer
+ * @n: the input number as an integer for function.
  *
- * Return: 1 is greater than 0 . 0 is zero
- * -1 is less than 0
+ * Return: 1 is greater than 0 . 0 is zero.
+ * -1 is less than 0 .
 */
 int print_sign(int n)
 {
