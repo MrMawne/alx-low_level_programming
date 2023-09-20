@@ -1,0 +1,4 @@
+#!/bin/bash
+git add .
+git commit -m "how are you all"
+git push
